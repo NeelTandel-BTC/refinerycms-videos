@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
   s.add_dependency    'globalize',                   ['>= 4.0.0', '< 5.2']
 
   # Development dependencies (usually used for testing)
-  s.add_development_dependency 'refinerycms-testing', '~> 3.0.0'
+  s.add_development_dependency 'refinerycms-testing', '~> 4.0.0'
 end
